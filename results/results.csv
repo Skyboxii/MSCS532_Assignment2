@@ -1,0 +1,61 @@
+algorithm,dataset,n,time_ms,peak_kb,comparisons
+Merge Sort,sorted,1000,0.739,15.867,5044
+Quick Sort (last pivot),sorted,1000,19.871,8.055,499500
+Quick Sort (random pivot),sorted,1000,0.65,8.445,9734
+Python sorted() (Timsort),sorted,1000,0.003,7.883,999
+Merge Sort,sorted,2500,2.108,39.305,14752
+Quick Sort (last pivot),sorted,2500,127.096,19.773,3123750
+Quick Sort (random pivot),sorted,2500,2.717,20.273,31900
+Python sorted() (Timsort),sorted,2500,0.012,19.602,2499
+Merge Sort,sorted,5000,8.17,78.367,32004
+Quick Sort (last pivot),sorted,5000,952.124,39.305,12497500
+Quick Sort (random pivot),sorted,5000,5.793,39.867,78460
+Python sorted() (Timsort),sorted,5000,0.024,39.133,4999
+Merge Sort,sorted,7500,12.694,117.43,49432
+Quick Sort (last pivot),sorted,7500,2267.352,58.836,28121250
+Quick Sort (random pivot),sorted,7500,10.418,59.398,112806
+Python sorted() (Timsort),sorted,7500,0.036,58.664,7499
+Merge Sort,sorted,10000,17.798,156.492,69008
+Quick Sort (last pivot),sorted,10000,4002.874,78.367,49995000
+Quick Sort (random pivot),sorted,10000,13.392,78.961,161820
+Python sorted() (Timsort),sorted,10000,0.053,78.195,9999
+Merge Sort,reverse,1000,1.39,15.867,4932
+Quick Sort (last pivot),reverse,1000,21.21,8.102,499500
+Quick Sort (random pivot),reverse,1000,1.044,8.492,10620
+Python sorted() (Timsort),reverse,1000,0.006,7.883,999
+Merge Sort,reverse,2500,3.823,39.305,13652
+Quick Sort (last pivot),reverse,2500,162.214,19.82,3123750
+Quick Sort (random pivot),reverse,2500,2.754,20.242,31545
+Python sorted() (Timsort),reverse,2500,0.015,19.602,2499
+Merge Sort,reverse,5000,8.063,78.367,29804
+Quick Sort (last pivot),reverse,5000,668.903,39.352,12497500
+Quick Sort (random pivot),reverse,5000,6.408,39.867,67573
+Python sorted() (Timsort),reverse,5000,0.029,39.133,4999
+Merge Sort,reverse,7500,12.832,117.43,47376
+Quick Sort (last pivot),reverse,7500,1528.46,58.883,28121250
+Quick Sort (random pivot),reverse,7500,8.999,59.367,117144
+Python sorted() (Timsort),reverse,7500,0.043,58.664,7499
+Merge Sort,reverse,10000,18.463,156.492,64608
+Quick Sort (last pivot),reverse,10000,2790.97,78.414,49995000
+Quick Sort (random pivot),reverse,10000,12.525,78.992,157306
+Python sorted() (Timsort),reverse,10000,0.061,78.195,9999
+Merge Sort,random,1000,1.594,15.867,8704
+Quick Sort (last pivot),random,1000,0.801,8.398,11292
+Quick Sort (random pivot),random,1000,1.505,8.445,11260
+Python sorted() (Timsort),random,1000,0.066,11.758,8657
+Merge Sort,random,2500,4.877,39.305,25116
+Quick Sort (last pivot),random,2500,2.753,20.195,31179
+Quick Sort (random pivot),random,2500,2.868,20.242,31009
+Python sorted() (Timsort),random,2500,0.211,29.281,25061
+Merge Sort,random,5000,9.926,78.367,55227
+Quick Sort (last pivot),random,5000,5.102,39.805,73051
+Quick Sort (random pivot),random,5000,3.99,39.898,70943
+Python sorted() (Timsort),random,5000,0.354,58.5,55131
+Merge Sort,random,7500,16.294,117.43,87124
+Quick Sort (last pivot),random,7500,7.396,59.336,109171
+Quick Sort (random pivot),random,7500,10.237,59.367,126373
+Python sorted() (Timsort),random,7500,0.762,87.758,86782
+Merge Sort,random,10000,21.351,156.492,120398
+Quick Sort (last pivot),random,10000,11.027,78.93,153294
+Quick Sort (random pivot),random,10000,14.545,78.93,161634
+Python sorted() (Timsort),random,10000,1.024,117.242,120177
